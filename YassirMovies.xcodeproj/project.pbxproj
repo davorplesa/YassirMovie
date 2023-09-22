@@ -158,6 +158,7 @@
 			isa = PBXGroup;
 			children = (
 				41A270C22ABB57CA002987F7 /* YassirMovies */,
+				4119552F2ABE176300B6381B /* README.md */,
 				41A270C12ABB57CA002987F7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -180,7 +181,6 @@
 				41A270C32ABB57CA002987F7 /* YassirMoviesApp.swift */,
 				41A270C72ABB57CB002987F7 /* Assets.xcassets */,
 				41A270C92ABB57CB002987F7 /* Preview Content */,
-				4119552F2ABE176300B6381B /* README.md */,
 			);
 			path = YassirMovies;
 			sourceTree = "<group>";
