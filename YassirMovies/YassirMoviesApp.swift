@@ -2,7 +2,7 @@
 //  YassirMoviesApp.swift
 //  YassirMovies
 //
-//  Created by Davor on 20.09.2023..
+//  Created by Davor Plesa on 20.09.2023.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct YassirMoviesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MoviesListView()
         }
     }
 }
